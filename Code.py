@@ -1,8 +1,6 @@
 from PyQt5 import uic, QtWidgets
 import mysql.connector
 
-
-
 def funcao_principal():
     l1 = formulario.lineEdit.text()
     l2 = formulario.lineEdit_2.text()
